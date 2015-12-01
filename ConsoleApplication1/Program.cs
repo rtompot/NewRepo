@@ -15,5 +15,10 @@ namespace ConsoleApplication1
             Console.WriteLine("Hi Kana");
             Console.WriteLine("Hi Liam");
         }
+
+        private static void Method()
+        {
+            
+        }
     }
 }
